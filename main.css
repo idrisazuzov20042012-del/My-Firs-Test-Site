@@ -1,0 +1,41 @@
+/*
+.main-text {
+    color: blue;
+}
+
+#text-in-p {
+    color: red;
+}
+
+div p b, i{
+    color: green;
+}
+
+div p{
+    color: orange;
+}*/
+
+.main_link {
+    color: purple;
+    
+}
+
+.main_link:hover {
+    color: rgb(65, 49, 210);
+    text-decoration: line-through;
+    text-decoration-color: gold;
+    cursor: pointer;
+}
+
+.main_link:visted {
+    text-decoration: line-through;
+    color: grey
+}
+
+input:focus {
+    background-color: lightblue;
+
+}
+
+input {color:blue}
+input:focus {color: red}
