@@ -39,3 +39,7 @@ input:focus {
 
 input {color:blue}
 input:focus {color: red}
+
+textarea {
+    color: green;
+}
